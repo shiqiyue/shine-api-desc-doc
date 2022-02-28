@@ -39,3 +39,14 @@ https://shineapi.xiaoyuanchao.xyz/doc.html#/v1/%E5%BA%97%E9%93%BA%E6%8E%A5%E5%8F
 设置店铺名称
 https://shineapi.xiaoyuanchao.xyz/doc.html#/v1/%E5%BA%97%E9%93%BA%E6%8E%A5%E5%8F%A3/setShopName
 ```
+
+## 账号设置(Account Settings)
+![](.merchant_images/9f9749f5.png)
+```azure
+修改邮箱：
+https://shineapi.xiaoyuanchao.xyz/doc.html#/v1/%E5%95%86%E6%88%B7%E6%8E%A5%E5%8F%A3/changeEmail
+发送邮箱确认邮件：
+https://shineapi.xiaoyuanchao.xyz/doc.html#/v1/%E5%95%86%E6%88%B7%E6%8E%A5%E5%8F%A3/sendConfirmEmail
+修改密码：
+https://shineapi.xiaoyuanchao.xyz/doc.html#/v1/%E5%95%86%E6%88%B7%E6%8E%A5%E5%8F%A3/updatePasswd
+```
