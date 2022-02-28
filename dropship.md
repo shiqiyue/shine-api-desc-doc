@@ -28,9 +28,9 @@ https://shineapi.xiaoyuanchao.xyz/doc.html#/v1/%E5%88%86%E9%94%80/publishCustomP
 获取发布进度：
 https://shineapi.xiaoyuanchao.xyz/doc.html#/v1/%E5%88%86%E9%94%80/getPublishStatus
 hide on shopify/woocommerce:
-
+https://shineapi.xiaoyuanchao.xyz/doc.html#/v1/%E5%88%86%E9%94%80/hideOnServer
 show on shopify/woocommerce:
-
+https://shineapi.xiaoyuanchao.xyz/doc.html#/v1/%E5%88%86%E9%94%80/showOnServer
 删除:
 https://shineapi.xiaoyuanchao.xyz/doc.html#/v1/%E5%88%86%E9%94%80/removeCustomProduct
 批量删除:
