@@ -16,3 +16,4 @@ https://shineapi.xiaoyuanchao.xyz
 # [白板详情](./blank_product_detail.md)
 # [订阅配饰](./subscription_config.md)
 # [支付](./pay.md)
+# [个人中心](./merchant.md)
