@@ -19,3 +19,6 @@ https://shineapi.xiaoyuanchao.xyz
 # [个人中心](./merchant.md)
 # [分销](./dropship.md)
 # [订单](./order.md)
+# [店铺](./shop.md)
+# [文件](./file.md)
+# [定制功能](./design.md)
