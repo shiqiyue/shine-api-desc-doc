@@ -21,7 +21,7 @@ https://shineapi.xiaoyuanchao.xyz/doc.html#/v1/%E5%88%86%E9%94%80/detail
 https://shineapi.xiaoyuanchao.xyz/doc.html#/v1/%E5%88%86%E9%94%80/modify
 save as draft 调用上面接口就行
 publish :这个功能普通商店没有，要shopify店铺或者woocommerce店铺才有。这个功能也是先调用上面接口，然后再调用
-推送的接口
+推送的接口(要判断店铺类型，如果当前店铺类型是一般店铺，则没有推送的功能)
 https://shineapi.xiaoyuanchao.xyz/doc.html#/v1/%E5%88%86%E9%94%80/publishCustomProduct
 上面接口返回发布ID，需要调用下面接口，轮询发布进度（3s轮询一次就行）
 https://shineapi.xiaoyuanchao.xyz/doc.html#/v1/%E5%88%86%E9%94%80/getPublishStatus
