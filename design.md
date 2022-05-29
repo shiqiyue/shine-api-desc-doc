@@ -19,7 +19,7 @@ https://shineapi.xiaoyuanchao.xyz/doc.html#/v1/%E5%85%AC%E5%85%B1%E6%8E%A5%E5%8F
 https://shineapi.xiaoyuanchao.xyz/doc.html#/v1/%E5%85%AC%E5%85%B1%E6%8E%A5%E5%8F%A3/suggestTextList
 
 设计后-下单
-https://shineapi.xiaoyuanchao.xyz/doc.html#/v1/%E8%AE%A2%E5%8D%95/createForDesign
+https://shineapi.xiaoyuanchao.xyz/doc.html#/Artshiney_Shop_Api/%E8%AE%A2%E5%8D%95/createForDesign
 ```
 
 
